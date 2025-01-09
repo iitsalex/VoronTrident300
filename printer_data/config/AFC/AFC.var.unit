@@ -2,9 +2,9 @@
     "Turtle_1": {
         "leg1": {
             "spool_id": "",
-            "material": "",
+            "material": "PLA",
             "color": "#000000",
-            "weight": 0,
+            "weight": "0",
             "runout_lane": "NONE",
             "map": "T0",
             "index": 1,
