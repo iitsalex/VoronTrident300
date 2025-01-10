@@ -3,7 +3,7 @@
         "leg1": {
             "spool_id": "",
             "material": "PLA",
-            "color": "#000000",
+            "color": "#00EAFF",
             "weight": "0",
             "runout_lane": "NONE",
             "map": "T0",
