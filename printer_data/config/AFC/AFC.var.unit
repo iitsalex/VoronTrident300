@@ -15,7 +15,7 @@
         "leg2": {
             "spool_id": "",
             "material": "PLA",
-            "color": "#000000",
+            "color": "#000CFF",
             "weight": "0",
             "runout_lane": "NONE",
             "map": "T1",
