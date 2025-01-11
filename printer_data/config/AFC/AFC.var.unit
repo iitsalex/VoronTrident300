@@ -13,10 +13,10 @@
             "status": ""
         },
         "leg2": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "2",
+            "material": "ABS",
+            "color": "#000000",
+            "weight": 1000.0,
             "runout_lane": "NONE",
             "map": "T1",
             "index": 2,
