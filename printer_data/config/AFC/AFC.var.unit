@@ -26,15 +26,15 @@
         },
         "leg3": {
             "spool_id": "",
-            "material": "PLA",
-            "color": "#FF0000",
-            "weight": "0",
+            "material": "",
+            "color": "",
+            "weight": "",
             "runout_lane": "NONE",
             "map": "T2",
             "index": 3,
             "tool_loaded": false,
             "hub_loaded": false,
-            "status": "ejecting"
+            "status": ""
         },
         "leg4": {
             "spool_id": "",
