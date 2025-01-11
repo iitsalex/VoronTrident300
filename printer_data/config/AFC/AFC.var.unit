@@ -26,7 +26,7 @@
         },
         "leg3": {
             "spool_id": "3",
-            "material": "PLA",
+            "material": "ABS",
             "color": "#0800ff",
             "weight": 1000.0,
             "runout_lane": "NONE",
