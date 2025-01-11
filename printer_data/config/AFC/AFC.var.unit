@@ -25,10 +25,10 @@
             "status": ""
         },
         "leg3": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "3",
+            "material": "PLA",
+            "color": "#0800ff",
+            "weight": 1000.0,
             "runout_lane": "NONE",
             "map": "T2",
             "index": 3,
