@@ -10,19 +10,19 @@
             "index": 1,
             "tool_loaded": false,
             "hub_loaded": true,
-            "status": null
+            "status": "ejecting"
         },
         "leg2": {
-            "spool_id": "1",
-            "material": "PLA",
-            "color": "#000000",
-            "weight": 200.0,
+            "spool_id": "",
+            "material": "",
+            "color": "",
+            "weight": "",
             "runout_lane": "NONE",
             "map": "T1",
             "index": 2,
             "tool_loaded": false,
             "hub_loaded": false,
-            "status": "ejecting"
+            "status": ""
         },
         "leg3": {
             "spool_id": "",
