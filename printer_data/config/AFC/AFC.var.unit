@@ -25,10 +25,10 @@
             "status": ""
         },
         "leg3": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "4",
+            "material": "ABS",
+            "color": "#29768F",
+            "weight": 1000.0,
             "runout_lane": "NONE",
             "map": "T2",
             "index": 3,
@@ -37,10 +37,10 @@
             "status": ""
         },
         "leg4": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "spool_id": "5",
+            "material": "ABS",
+            "color": "#606161",
+            "weight": 1000.0,
             "runout_lane": "NONE",
             "map": "T3",
             "index": 4,
