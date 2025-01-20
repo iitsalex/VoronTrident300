@@ -25,16 +25,16 @@
             "status": ""
         },
         "leg3": {
-            "spool_id": "4",
-            "material": "ABS",
-            "color": "#29768F",
-            "weight": 957.3368584891535,
+            "spool_id": "",
+            "material": "",
+            "color": "",
+            "weight": "",
             "runout_lane": "NONE",
             "map": "T2",
             "index": 3,
             "tool_loaded": false,
-            "hub_loaded": true,
-            "status": "ejecting"
+            "hub_loaded": false,
+            "status": ""
         },
         "leg4": {
             "spool_id": "",
